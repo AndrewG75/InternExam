@@ -1,0 +1,8 @@
+I'm not sure about the B part of PHP because I don't know how to
+round ().
+
+In the SQL part, I don't know how to find multiple years or 
+multiple elements.
+
+In the Javascript part, I don't know how to do the second part.
+
